@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "company": "Barry Callebaut",
+    "role": "Data Analyst",
+    "duration": "2024 - Present",
+    "description": "Analyzing and interpreting complex data to help drive business decisions. Focusing on improving operational efficiency and reporting for the business.",
+    "imageUrl": "assets/images/company-barry-callebaut.png",  
+    "companyUrl": "Not Available"
+  },
+  {
+    "id": 2,
+    "company": "White Label Resell",
+    "role": "Cloud Engineer",
+    "duration": "2023 - 2024",
+    "description": "Worked on AWS infrastructure management, cloud services implementation, and troubleshooting. Assisted in the development of automated solutions for internal systems.",
+    "imageUrl": "assets/images/company-white-label-resell.png",  
+    "companyUrl": "Not Available"
+  },
+  {
+    "id": 3,
+    "company": "Federal Polytechnic Ilaro",
+    "role": "Technologist II",
+    "duration": "2023",
+    "description": "Provided technical support and system maintenance for campus IT infrastructure. Focused on hardware troubleshooting and software installations.",
+    "imageUrl": "assets/images/company-federal-polytechnic-ilaro.png",  
+    "companyUrl": "Not Available"
+  },
+  {
+    "id": 4,
+    "company": "Federal Polytechnic Offa",
+    "role": "Technologist II",
+    "duration": "2022 - 2023",
+    "description": "Specialized in the maintenance and installation of technical systems in various departments, ensuring smooth operations of academic and administrative functions.",
+    "imageUrl": "assets/images/company-federal-polytechnic-offa.png",  
+    "companyUrl": "Not Available"
+  },
+  {
+    "id": 5,
+    "company": "Psaltry International Nigeria",
+    "role": "Mechanical Engineer (Graduate Trainee)",
+    "duration": "2023",
+    "description": "Assisted in the design and implementation of mechanical systems in the manufacturing process, contributing to production optimization and product quality improvements.",
+    "imageUrl": "assets/images/company-psaltry-international.png",  
+    "companyUrl": "Not Available"
+  },
+  {
+    "id": 6,
+    "company": "Independent National Electoral Commission (INEC)",
+    "role": "Presiding Officer",
+    "duration": "2023",
+    "description": "Oversaw the electoral process in my assigned polling station, ensuring accurate vote counting and reporting of results.",
+    "imageUrl": "assets/images/company-inec.png",  
+    "companyUrl": "Not Available"
+  },
+  {
+    "id": 7,
+    "company": "Federal Polytechnic Offa (NYSC)",
+    "role": "Admin",
+    "duration": "2022",
+    "description": "Provided administrative support and assisted in organizing and coordinating campus events and activities.",
+    "imageUrl": "assets/images/company-federal-polytechnic-offa-nysc.png",  
+    "companyUrl": "Not Available"
+  },
+  {
+    "id": 8,
+    "company": "The Polytechnic Ibadan",
+    "role": "Final Year Project - Construction of Automatic Door",
+    "duration": "2022",
+    "description": "Designed and implemented an automatic door system as part of my final year project, incorporating sensors and control systems for automation.",
+    "imageUrl": "assets/images/company-polytechnic-ibadan.png", 
+    "companyUrl": "Not Available"
+  },
+  {
+    "id": 9,
+    "company": "Osun State College of Education, Esa Oke",
+    "role": "Final Year Project - Installation of Cold Room Storage",
+    "duration": "2021",
+    "description": "Designed and installed a cold room storage system as part of the final year project, focused on temperature control and energy efficiency.",
+    "imageUrl": "assets/images/company-osun-state-college.png",  
+    "companyUrl": "Not Available"
+  },
+  {
+    "id": 10,
+    "company": "Golden Crescent Ideas and Multipurpose Company",
+    "role": "Mobile Money Agent",
+    "duration": "2017 - 2019",
+    "description": "Provided mobile money services, assisting customers with transactions and money transfers, and ensuring the accuracy of financial records.",
+    "imageUrl": "assets/images/company-golden-crescent.png",  
+    "companyUrl": "Not Available"
+  },
+  {
+    "id": 11,
+    "company": "TIP-TAP Nigeria Limited",
+    "role": "Specialized in Repair, Sales, and Servicing of Automobiles",
+    "duration": "2009",
+    "description": "Managed the repair, servicing, and sales of automobiles, ensuring optimal performance and client satisfaction.",
+    "imageUrl": "assets/images/company-tip-tap.png",  
+    "companyUrl": "Not Available"
+  }
+]

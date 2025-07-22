@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Football Prediction Algorithm",
+    "technologies": "Django/React",
+    "description": "A web application that predicts football match outcomes using a machine learning model. The frontend is built with React and the backend with Django."
+  },
+  {
+    "title": "Farmer Data Dashboard",
+    "technologies": "Power BI/Looker Studio",
+    "description": "An interactive dashboard to visualize and analyze data for farmers, helping them make informed decisions about crops and resources."
+  },
+  {
+    "title": "Technical SEO Audit Tools",
+    "technologies": "AWS",
+    "description": "A suite of tools built on AWS to perform technical SEO audits on websites, identifying issues and providing recommendations for improvement."
+  },
+  {
+    "title": "Polygon Cleaning",
+    "technologies": "QGIS",
+    "description": "A project focused on cleaning and processing geospatial data, specifically polygons, using the QGIS toolset for accurate mapping."
+  }
+]

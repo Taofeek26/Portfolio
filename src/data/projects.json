@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Football Prediction Algorithm",
+    "description": "A web app built with Django and React that predicts football match outcomes using recent match standings and statistics. Implements backend logic and interactive frontend UI.",
+    "imageUrl": "assets/images/project-football.jpg",
+    "tags": ["Django", "React", "Python"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  },
+  {
+    "id": 2,
+    "title": "Farmer Data Analysis Dashboard",
+    "description": "A dashboard designed for farmer data reporting using Power BI and Looker Studio. Displays key metrics for agricultural planning and resource tracking.",
+    "imageUrl": "assets/images/project-farmer-dashboard.jpg",
+    "tags": ["Power BI", "Looker Studio", "Data Analysis"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  },
+  {
+    "id": 3,
+    "title": "Polygon Cleaning with QGIS",
+    "description": "Used QGIS for geographic data cleanup, including polygon correction and boundary verification for geospatial datasets.",
+    "imageUrl": "assets/images/project-polygon.jpg",
+    "tags": ["QGIS", "GIS", "Geospatial"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  },
+  {
+    "id": 4,
+    "title": "Link Building Blog (AWS Service)",
+    "description": "A serverless tool hosted on AWS that analyzes and assists in link-building efforts through keyword and competitor data processing.",
+    "imageUrl": "assets/images/project-link-blog.jpg",
+    "tags": ["AWS", "Lambda", "Cloud Computing", "SEO"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  },
+  {
+    "id": 5,
+    "title": "Technical Audit Function (AWS)",
+    "description": "A backend audit function using AWS Lambda to scan and report on website performance, SEO compliance, and infrastructure status.",
+    "imageUrl": "assets/images/project-technical-audit.jpg",
+    "tags": ["AWS", "Lambda", "Automation", "SEO"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  },
+  {
+    "id": 6,
+    "title": "Competitor Audit Function (AWS)",
+    "description": "An AWS-based microservice that conducts competitor analysis through scraping and comparison of SEO and content data.",
+    "imageUrl": "assets/images/project-competitor-audit.jpg",
+    "tags": ["AWS", "Lambda", "Scraping", "SEO"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  },
+  {
+    "id": 7,
+    "title": "Website Analysis Function (AWS)",
+    "description": "Automated function on AWS that inspects site structure, load speed, keyword targeting, and internal linking for SEO optimization.",
+    "imageUrl": "assets/images/project-website-analysis.jpg",
+    "tags": ["AWS", "Lambda", "SEO", "Automation"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  },
+  {
+    "id": 8,
+    "title": "Keyword Analysis Function (AWS)",
+    "description": "A cloud-based script hosted on AWS Lambda that identifies high-opportunity keywords for SEO content strategy.",
+    "imageUrl": "assets/images/project-keyword-analysis.jpg",
+    "tags": ["AWS", "Lambda", "SEO", "Keyword Research"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  },
+  {
+    "id": 9,
+    "title": "Code Generator Function",
+    "description": "Built with Anaconda and Python, this tool auto-generates starter code based on project parameters. Designed to streamline repetitive scripting tasks.",
+    "imageUrl": "assets/images/project-code-generator.jpg",
+    "tags": ["Python", "Anaconda", "Automation"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  },
+  {
+    "id": 10,
+    "title": "Authentication System",
+    "description": "Developed a secure authentication system using the Django framework with custom user roles and session management.",
+    "imageUrl": "assets/images/project-auth-system.jpg",
+    "tags": ["Django", "Authentication", "Backend"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  },
+  {
+    "id": 11,
+    "title": "Portfolio Website",
+    "description": "Personal portfolio website showcasing technical skills and project work. Built with WordPress and custom styling.",
+    "imageUrl": "assets/images/project-portfolio.jpg",
+    "tags": ["WordPress", "Web Design"],
+    "liveUrl": "Not Available",
+    "repoUrl": "Not Available"
+  }
+]
